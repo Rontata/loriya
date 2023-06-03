@@ -1,3 +1,3 @@
 # loriya
-cmf
-cf
+cmd
+cd

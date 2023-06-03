@@ -1,3 +1,1 @@
 # loriya
-cmd
-cd

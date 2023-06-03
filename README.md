@@ -1,1 +1,3 @@
 # loriya
+cmd
+cd
